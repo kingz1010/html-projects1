@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px  5px auto;
+    font-style: initial;
+    position: relative;
+    
+}
+.top-container {
+    height: 150%;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(228, 228, 231);
+}
+.middle-container{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(176, 231, 23);
+}
+.profile-image{
+    border-radius: 50%;
+}
